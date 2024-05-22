@@ -1,7 +1,8 @@
 [
   {
     "name": "USSR",
-    "innerColor": [205, 0, 0]
+    "leaderName": "Joseph Stalin",
+    "innerColor": [205, 0, 0],
     "outerColor": [205, 0, 0]
   }
 ]
