@@ -1,3 +1,6 @@
-{
-  "name": "USSR"
-}
+[
+  {
+    "name": "USSR",
+    "outerColor": [255, 255, 255]
+  }
+]
